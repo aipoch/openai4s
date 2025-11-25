@@ -3,7 +3,7 @@ This repository indexes open-source AI for Science (AI4S) projects on GitHub.  P
 
 ---
 
-## 1. Information Retrieval
+## 1. Information Access
 
 * [datalab-to/marker](https://github.com/datalab-to/marker)
     * **Description:** Convert PDF to Markdown and JSON fast and efficiently.
@@ -46,7 +46,7 @@ This repository indexes open-source AI for Science (AI4S) projects on GitHub.  P
 * [linhandev/dataset](https://github.com/linhandev/dataset)
     * **Description:** 『An Index for Medical Imaging Datasets』 (A list of medical imaging datasets).
 
-## 2. Solution Design
+## 2. Research design
 
 * [google/deepvariant](https://github.com/google/deepvariant)
     * **Description:** DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.

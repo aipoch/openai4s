@@ -99,3 +99,6 @@ This repository indexes open-source AI for Science (AI4S) projects on GitHub.  P
 * [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster)
     * **Description:** An AI tool that automatically generates informative academic posters from a scientific paper.
     * **License:** MIT
+* [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)
+    * **Description:** An LLM-based framework that automatically transforms academic research papers into structured PowerPoint presentations.
+    * **License:** MIT
